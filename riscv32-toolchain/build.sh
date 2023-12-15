@@ -3,4 +3,4 @@
 echo Building image for RISC-V 32-bit toolchain with QEMU
 
 # --no-cache
-docker build -t renefonseca/riscv32-toolchain:latest .
+docker build -t riscv32-toolchain-newlib:latest .
